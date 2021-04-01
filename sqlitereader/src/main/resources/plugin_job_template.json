@@ -1,0 +1,10 @@
+{
+	"name": "sqliteereader",
+	"parameter": {
+		"filename": "",
+		"path": ["d:/data-datax"],
+		"connection": [{
+			"table": []
+		}]
+	}
+}

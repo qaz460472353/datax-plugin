@@ -1,0 +1,21 @@
+{
+	"name": "sqlitewriter",
+	"parameter": {
+		"column": [{
+			"name": "id",
+			"type": "varchar(20)"
+		}, {
+			"name": "name",
+			"type": "varchar(20)"
+		}, {
+			"name": "age",
+			"type": "int"
+		}],
+		"preSql": [],
+		"filename":"SMWB_FRAMEWORK",
+		"path":"D:/datax-data",
+		"connection": [{
+			"table": []
+		}]
+	}
+}
